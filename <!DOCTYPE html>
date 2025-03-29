@@ -1,4 +1,3 @@
-
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -13,3 +12,109 @@
             <p class="text-sm">Integrating clinical expertise, patient values, and the best available evidence</p>
         </div>
     </header>
+main class="container mx-auto px-4 py-8">
+        <section class="mb-8">
+            <h2 class="text-2xl font-semibold mb-4">What is Evidence-Based Dentistry?</h2>
+            <p class="text-base leading-relaxed">
+                Evidence-Based Dentistry (EBD) is the conscientious, explicit, and judicious use of current best evidence
+                in making decisions about the care of individual patients. It integrates clinical expertise with the best
+                available external clinical evidence from systematic research.
+            </p>
+        </section>
+
+        <section class="mb-8">
+            <h2 class="text-2xl font-semibold mb-4">Core Principles of EBD</h2>
+            <ul class="list-disc pl-5 space-y-2">
+                <li>Systematic assessment of relevant scientific evidence</li>
+                <li>Clinical expertise of the practitioner</li>
+                <li>Consideration of patient’s needs, values, and preferences</li>
+            </ul>
+        </section>
+
+        <section class="mb-8">
+            <h2 class="text-2xl font-semibold mb-4">Steps in Practicing EBD</h2>
+            <ol class="list-decimal pl-5 space-y-2">
+                <li>Formulate a clear clinical question</li>
+                <li>Search for the best available evidence</li>
+                <li>Critically appraise the evidence</li>
+                <li>Apply the evidence in clinical practice</li>
+                <li>Evaluate the outcome</li>
+            </ol>
+        </section>
+
+        <section class="mb-8">
+            <h2 class="text-2xl font-semibold mb-4">Practical Recommendations for Patients</h2>
+            <p class="text-base leading-relaxed">
+                Based on current scientific evidence and expert consensus, here are some evidence-based recommendations for optimal oral health:
+            </p>
+            <ul class="list-disc pl-5 mt-4 space-y-2">
+                <li>Brush twice daily with fluoride toothpaste to reduce cavities and maintain healthy gums.</li>
+                <li>Floss daily to remove plaque and food particles between teeth where a toothbrush can't reach.</li>
+                <li>Visit your dentist every 6 months for check-ups and professional cleaning.</li>
+                <li>Limit sugar intake, especially sugary snacks and drinks, to prevent tooth decay.</li>
+                <li>Use a mouthguard if you grind your teeth at night or play contact sports.</li>
+                <li>Ask your dentist about sealants for children’s molars to protect against decay.</li>
+                <li>Quit smoking and avoid tobacco products, which are major risk factors for gum disease and oral cancer.</li>
+                <li>Consider fluoride treatments if you are at higher risk for dental caries.</li>
+            </ul>
+        </section>
+
+        <section class="mb-8">
+            <h2 class="text-2xl font-semibold mb-4">Case Studies</h2>
+            <p class="text-base leading-relaxed">
+                Explore real-world case studies that demonstrate the application of evidence-based practices in various dental scenarios.
+            </p>
+            <ul class="list-disc pl-5 mt-2 space-y-2">
+                <li><a href="#" class="text-blue-600 hover:underline">Case Study: Managing Chronic Periodontitis</a></li>
+                <li><a href="#" class="text-blue-600 hover:underline">Case Study: Pediatric Fluoride Application</a></li>
+            </ul>
+        </section>
+
+        <section class="mb-8">
+            <h2 class="text-2xl font-semibold mb-4">Blog</h2>
+            <p class="text-base leading-relaxed">
+                Stay informed with articles, news, and updates in the field of evidence-based dental care.
+            </p>
+            <ul class="list-disc pl-5 mt-2 space-y-2">
+                <li><a href="#" class="text-blue-600 hover:underline">5 Myths About Evidence-Based Dentistry</a></li>
+                <li><a href="#" class="text-blue-600 hover:underline">Integrating Research into Daily Practice</a></li>
+            </ul>
+        </section>
+
+        <section class="mb-8">
+            <h2 class="text-2xl font-semibold mb-4">Video Resources</h2>
+            <p class="text-base leading-relaxed">
+                Watch expert-led video tutorials and webinars on implementing evidence-based practices.
+            </p>
+            <ul class="list-disc pl-5 mt-2 space-y-2">
+                <li><a href="#" class="text-blue-600 hover:underline">Webinar: Clinical Guidelines for Oral Health</a></li>
+                <li><a href="#" class="text-blue-600 hover:underline">Tutorial: Conducting a Literature Review</a></li>
+            </ul>
+        </section>
+
+        <section class="mb-8">
+            <h2 class="text-2xl font-semibold mb-4">Newsletter Subscription</h2>
+            <p class="text-base leading-relaxed mb-4">
+                Subscribe to our monthly newsletter for the latest evidence-based dental research, news, and practice tips.
+            </p>
+            <form class="flex flex-col sm:flex-row gap-4">
+                <input type="email" placeholder="Your email address" class="px-4 py-2 rounded border border-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-500">
+                <button type="submit" class="px-4 py-2 bg-blue-600 text-white rounded hover:bg-blue-700">Subscribe</button>
+            </form>
+        </section>
+
+        <section class="mb-8">
+            <h2 class="text-2xl font-semibold mb-4">Resources</h2>
+            <ul class="list-disc pl-5 space-y-2">
+                <li><a href="https://ebd.ada.org/" class="text-blue-600 hover:underline" target="_blank">ADA Center for Evidence-Based Dentistry</a></li>
+                <li><a href="https://pubmed.ncbi.nlm.nih.gov/" class="text-blue-600 hover:underline" target="_blank">PubMed Database</a></li>
+                <li><a href="https://www.cochranelibrary.com/" class="text-blue-600 hover:underline" target="_blank">Cochrane Library</a></li>
+            </ul>
+        </section>
+    </main>
+
+    <footer class="bg-gray-100 p-6 text-center text-sm text-gray-500">
+        &copy; 2025 Evidence-Based Dentistry | Promoting informed dental care
+    </footer>
+</body>
+</html>
